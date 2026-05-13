@@ -21,7 +21,6 @@ A sleek and fully responsive Free **Bootstrap 5** Admin Dashboard Template with 
         - Touch-swipe for the offcanvas on mobile devices
 - Dark/Light Mode
 - Page loader/unloader
-- Chart.js (For dashboard example)
 
 ## 📝 Page Templates
 - Dashboard
