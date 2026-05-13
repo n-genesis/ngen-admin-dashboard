@@ -7,7 +7,6 @@ A sleek and fully responsive Free **Bootstrap 5** Admin Dashboard Template with 
 
 **[View Live Preview](https://admin-template.ngendesign.com/)**
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
 [![Static Badge](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
