@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "A sleek and fully responsive open-source Bootstrap 5 administration dashboard theme with swipe left event on mobile screens to display the offcanvas. Featuring basic, ready-to-use styled components, interactive data tables, and dynamic charting libraries. Built with clean, semantic HTML5 markup and zero jQuery dependencies, it ensures simple and effortless customization.",
   "keywords": [
-    "admin dashbaord",
-    "bootstrap 5",
-    "theme",
+    "admin-dashbaord",
+    "administration-template",
+    "bootstrap-5",
+    "bootstrap-theme",
+    "bootstrap-template",
     "open-soruce"
   ],
-  "homepage": "https://github.com/n-genesis/ngen-admin-dashboard#readme",
+  "homepage": "https://github.com/n-genesis/ngen-admin-dashboard",
   "bugs": {
     "url": "https://github.com/n-genesis/ngen-admin-dashboard/issues"
   },
@@ -25,11 +27,12 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "build": "npm run clean && npm run build:pug",
+    "build": "npm run clean && npm run build:pug && npm run build:scss",
+    "build:assets": "node scripts/build-assets.js",
     "build:pug": "node ./scripts/build-pug.js",
     "build:scripts": "node scripts/build-scripts.js",
     "build:scss": "node scripts/build-scss.js",
-    "start": "node scripts/start.js --logs-dir=./dev-logs",
+    "start": "npm run build && node scripts/start.js",
     "clean": "node scripts/clean.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -41,8 +44,5 @@
     "pug": "^3.0.4",
     "sass": "^1.99.0",
     "shelljs": "^0.10.0"
-  },
-  "dependencies": {
-    "bootstrap": "^5.3.8"
   }
 }
