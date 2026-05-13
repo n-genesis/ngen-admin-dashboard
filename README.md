@@ -1,0 +1,95 @@
+# Free Bootstrap 5 Admin Dashboard
+
+A sleek and fully responsive Free **Bootstrap 5** Admin Dashboard Template with swipe left event on mobile screens to display the offcanvas. It's a great starter-kit for developing a modern, user-friendly, and customizable feature-rich front-end for your web applications.
+
+![N-Gen Admin Dashboard Preview](https://ngendesign.com/templates/ngen-admin-dashboard-v4.png)
+
+
+**[View Live Preview](https://admin-template.ngendesign.com/)**
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
+[![Static Badge](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/n-genesis/ngen-admin-dashboard?style=for-the-badge&logo=github)
+[![Static Badge](https://img.shields.io/badge/N--Gen%20Design-1E30F3?style=for-the-badge&label=Created%20By)](https://ngendesign.com)
+
+## ✨ Features
+- Bootstrap 5 - Latest version with all modern utilities
+- Responsive - Mobile-optimized layouts across all devices
+    - Mobile Features
+        - Touch-swipe for the offcanvas on mobile devices
+- Dark/Light Mode
+- Page loader/unloader
+- Chart.js (For dashboard example)
+
+## 📝 Page Templates
+- Dashboard
+- User Profile
+- Blank Page
+- Folder & Files (simple cards for directory list)
+- Authentication Page
+    - Login, register, and forgot password
+- Error Pages
+    - 401, 404, and 500
+
+
+## 🚀 Quick Start
+To begin using this template, choose one of the following options to get started:
+
+* [Download the latest release on N-Gen Design](#)
+* Clone the repo: `git clone https://github.com/n-genesis/ngen-admin-dashboard.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/n-genesis/ngen-admin-dashboard/archive/main.zip)
+
+
+Once you've downloading your copy, you can easly edit the HTML and CSS files inside the `dist` directory. All the files here are the only ones you need edit to make style and layout changes, you can ignore everything else if you don't wan't to get technical! To checkout your the changes you make to the code, you can open the `index.html` file in your web browser.
+
+
+## ⚙️ Advanced Usage
+
+### Prerequisites
+You must have [Node.js](https://nodejs.org) (v18.0.0 or higher recommended) and NPM installed in order to use this build environment.
+
+Clone the source files and navigate into the project's root directory. Run `npm install` and then `npm start`, this will open your default browser with a preview of the template and watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+
+
+### 🛠️ Available Core Scripts
+
+* `npm run build` builds the project - this builds assets, HTML, JS, and CSS into `dist`
+* `npm run build:assets` copies the files in the `src/assets/` directory into `dist`
+* `npm run build:pug` compiles the Pug located in the `src/pug/` directory into `dist`
+* `npm run build:scripts` brings the `src/js/scripts.js` file into `dist`
+* `npm run build:scss` compiles the SCSS files located in the `src/scss/` directory into `dist`
+* `npm run clean` deletes the `dist` directory to prepare for rebuilding the project
+* `npm start` or `npm run start` runs the project, launches a live preview in your default browser, and watches for changes made to files in `src`
+
+
+### 📋 Documentation Architecture
+For comprehensive code insights, deep dives, and specific pipeline implementation details, please refer to the following internal documentation files:
+
+*   **[`OVERVIEW.md`](./OVERVIEW.md)**: Detailed folder layout trees, component breakdowns, custom build script logic pipelines, and system features.
+*   **[`CONTRIBUTING.md`](./CONTRIBUTING.md)**: Coding style guide requirements, git branching rules, and template creation workflows.
+
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](#) here on GitHub or leave a comment on the [template overview page on the N-Gen Design website](#).
+
+## Custom Builds
+
+You can hire N-Gen Design to create a custom build of any template, or create something from scratch using Bootstrap. For more information, visit the **[Our services page](#)**.
+
+## 📝 License
+
+Copyright 2025 N-Gen Design This project is open-source software licensed under the **[MIT License]**(./LICENSE).  
+
+## 🎗️ Credits & Attribution
+
+This template is built using open-source packages, asset frameworks, and community design resources.
+
+### 📦 Third-Party Libraries
+*   [Pug Engine](https://pugjs.org) — Structural HTML template generation.
+
+### 🎨 Design References
+*   [Simple Sidebar](https://github.com/startbootstrap/startbootstrap-simple-sidebar) created by Start Bootstrap is an off canvas sidebar navigation template.
+*   [SB Admin](https://github.com/startbootstrap/startbootstrap-sb-admin) - An Admin dashboard template for Bootstrap created by Start Bootstrap.

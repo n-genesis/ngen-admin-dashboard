@@ -1,0 +1,48 @@
+{
+  "name": "ngen-admin-dashbaord",
+  "version": "1.0.0",
+  "description": "A sleek and fully responsive open-source Bootstrap 5 administration dashboard theme with swipe left event on mobile screens to display the offcanvas. Featuring basic, ready-to-use styled components, interactive data tables, and dynamic charting libraries. Built with clean, semantic HTML5 markup and zero jQuery dependencies, it ensures simple and effortless customization.",
+  "keywords": [
+    "admin dashbaord",
+    "bootstrap 5",
+    "theme",
+    "open-soruce"
+  ],
+  "homepage": "https://github.com/n-genesis/ngen-admin-dashboard#readme",
+  "bugs": {
+    "url": "https://github.com/n-genesis/ngen-admin-dashboard/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-genesis/ngen-admin-dashboard.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "N-Gen Design",
+    "email": "ngendesign@email.com",
+    "url": "https://ngendesign.com"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run clean && npm run build:pug",
+    "build:pug": "node ./scripts/build-pug.js",
+    "build:scripts": "node scripts/build-scripts.js",
+    "build:scss": "node scripts/build-scss.js",
+    "start": "node scripts/start.js --logs-dir=./dev-logs",
+    "clean": "node scripts/clean.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "chokidar": "^5.0.0",
+    "concurrently": "^9.2.1",
+    "lodash-es": "^4.18.1",
+    "pug": "^3.0.4",
+    "sass": "^1.99.0",
+    "shelljs": "^0.10.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
