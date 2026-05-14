@@ -18,6 +18,7 @@ A modular, framework-free admin dashboard template powered by Node.js, Pug, and 
 │   ├── assets/
 │   │   ├── js/                 # Modular vanilla JavaScript files
 │   │   └── scss/               # Structured SASS stylesheets
+│   │       └── layout/         # Layout components (sidebar, navbar, wrapper)
 │   └── views/                  # Pug template files
 │       ├── layouts/            # Master page layouts (e.g., base, auth)
 │       ├── partials/           # Global components (e.g., sidebar, navbar, footer)
