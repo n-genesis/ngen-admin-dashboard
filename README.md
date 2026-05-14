@@ -45,7 +45,7 @@ Once you've downloading your copy, you can easly edit the HTML and CSS files ins
 ## ⚙️ Advanced Usage
 
 ### Prerequisites
-You must have [Node.js](https://nodejs.org) (v18.0.0 or higher recommended) and NPM installed in order to use this build environment.
+You must have [Node.js](https://nodejs.org) and NPM installed in order to use this build environment.
 
 Clone the source files and navigate into the project's root directory. Run `npm install` and then `npm start`, this will open your default browser with a preview of the template and watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
