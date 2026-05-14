@@ -35,9 +35,10 @@ A modular, framework-free admin dashboard template powered by Node.js, Pug, and 
 │   ├── clean.js                # Safely purges old files from the build directory
 │   ├── start.js                # Spins up the local development server with live reload
 ├── package.json                # Node.js project metadata and build scripts
-├── README.md                   # Project overview and template documentation
-├── OVERVIEW.md
-└── CONTRIBUTING.md
+├── 📄 README.md                # Project overview and template documentation
+├── 📄 OVERVIEW.md
+└── 📄 CONTRIBUTING.md
+└── 📜 LICENSE.md
 ```
 
 ## ✨ Core Features

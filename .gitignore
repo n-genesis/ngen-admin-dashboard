@@ -41,3 +41,6 @@ tmp/
 
 # IDE specific
 .editorconfig
+
+# Ignore the entire image assets directory
+src/assets/images/
