@@ -7,8 +7,10 @@ A sleek and fully responsive Free **Bootstrap 5** Admin Dashboard Template with 
 
 **[View Live Preview](https://admin-template.ngendesign.com/)**
 
+![Version](https://img.shields.io/badge/version-2.0.0-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
 [![Static Badge](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/n-genesis/ngen-admin-dashboard?style=for-the-badge&logo=github)
 [![Static Badge](https://img.shields.io/badge/N--Gen%20Design-1E30F3?style=for-the-badge&label=Created%20By)](https://ngendesign.com)
 
