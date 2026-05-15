@@ -36,12 +36,16 @@ A sleek and fully responsive **Bootstrap 5** Admin Dashboard Template with swipe
 ## 🚀 Quick Start
 To begin using this template, choose one of the following options to get started:
 
-* [Download the latest release on N-Gen Design](#)
-* Clone the repo: `git clone https://github.com/n-genesis/ngen-admin-dashboard.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/n-genesis/ngen-admin-dashboard/archive/main.zip)
+#### [Download the latest release on N-Gen Design](https://ngendesign.com/template.php)
 
+#### Clone the repo:
+Open your terminal/cmd and navigate to the directory you want to clone to project and run:  
 
-Once you've downloading your copy, you can easly edit the HTML and CSS files inside the `dist` directory. All the files here are the only ones you need edit to make style and layout changes, you can ignore everything else if you don't wan't to get technical! To checkout your the changes you make to the code, you can open the `index.html` file in your web browser.
+```
+git clone https://github.com/n-genesis/ngen-admin-dashboard.git
+```
+
+Once you've downloading your copy, you can easily edit the HTML, CSS, and JavaScirpt files inside the `dist` directory. All the files here are the only ones you need to edit to make style and layout changes. You can ignore everything else if you don't wan't to get technical and what not. To checkout your the changes you make to the code, you can open the `index.html` file in your web browser.
 
 
 ## ⚙️ Advanced Usage
