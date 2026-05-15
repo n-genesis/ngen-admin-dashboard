@@ -1,5 +1,5 @@
 {
-  "name": "ngen-admin-dashboard",
+  "name": "admin-dashboard",
   "version": "1.0.0",
   "description": "A sleek and fully responsive open-source Bootstrap 5 administration dashboard theme with swipe left event on mobile screens to display the offcanvas. Featuring basic, ready-to-use styled components, interactive data tables, and dynamic charting libraries. Built with clean, semantic HTML5 markup and zero jQuery dependencies, it ensures simple and effortless customization.",
   "keywords": [
